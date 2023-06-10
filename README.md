@@ -20,7 +20,7 @@ https://github.com/saveetha17/E-Commerce-Back-End.git
 
 ## Link to Deployed Application
 
-
+https://saveetha17.github.io/E-Commerce-Back-End/
 
 ## Link to Screencastify Video
 https://drive.google.com/file/d/1yuG-tK2-zPg30dhUls9ZU-zc-VYlMrzp/view
